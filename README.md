@@ -3,7 +3,7 @@
 ## Project Overview
 Plastic pollution is a serious threat to our oceans and marine life, and it significantly harms the environment. The **Underwater Plastic Detector** project aims to automatically detect plastic waste underwater using AI. By leveraging deep learning models, this tool can help in identifying and managing underwater plastic pollution, contributing toward a cleaner and healthier planet.
 
-![Underwater Plastic Detection Demo](path/to/your-gif-file.gif)
+![Underwater Plastic Detection Demo](video.gif)
 
 
 ## Project Pipeline
